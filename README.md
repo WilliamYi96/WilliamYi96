@@ -1,3 +1,5 @@
+Hi there, I am Kai Yi.
+
 - 👨🏼‍💻 I am a **Ph.D. candidate** at [KAUST](https://kaust.edu.sa/en) supervised by [Prof. Peter Richtarik](https://richtarik.org/)
 - ⚡ I am currently actively seeking research internships.
 - 🔭 I’m currently working on Machine Learning Optimization, Federated Learning, and Transfer Learning
